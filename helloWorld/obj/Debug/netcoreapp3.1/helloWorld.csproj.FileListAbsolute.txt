@@ -1,0 +1,14 @@
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.exe
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.deps.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.runtimeconfig.dev.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\bin\Debug\netcoreapp3.1\helloWorld.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.AssemblyReference.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfoInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.AssemblyInfo.cs
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.csproj.CoreCompileInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\helloWorld.genruntimeconfig.cache
